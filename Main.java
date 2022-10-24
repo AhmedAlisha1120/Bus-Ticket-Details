@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TestMain{
+public class Main{
     
     public static BusTicket getTicketDetails()
     {
